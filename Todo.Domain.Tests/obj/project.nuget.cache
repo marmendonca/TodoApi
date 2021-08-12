@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AdMXe2shbv1qf/2urPy0H9hmuKlPLz/3dn4OM/OP/m3vJMPKhLmiVsNqSYN/jjV9/uezmUdt3nlQhfPLrCALOA==",
+  "dgSpecHash": "IjYPa3VzOzGJDiHkkH5m5e4o4pSeCsG9jXu6Da1/vKUGiOTNzS2BpBAv9dinBthhJz2GUGJoxK/XxAGoys22mQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\marilia_mendonca\\Documents\\SpaceStudy\\Cursos\\TodoApi\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marilia_mendonca\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\marilia_mendonca\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
     "C:\\Users\\marilia_mendonca\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\marilia_mendonca\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\marilia_mendonca\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",

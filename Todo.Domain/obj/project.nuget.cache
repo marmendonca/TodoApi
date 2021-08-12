@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BYC3/gHn/+0MXBikw/SocdODsWTILxKM3n0v9A95lonPmj+UIVsXg7exCE9Gp9iZrfiZgOV7VlZoPHTRQ4FVPg==",
+  "dgSpecHash": "NHQR/c7RRh0CuvsOdpSsGGN9MJ7SPyD8lvyto1Hh1qLDg4YtlHuVV0+6unSX4NopO+dOTVqaobN/KYXM6r+0qQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\marilia_mendonca\\Documents\\SpaceStudy\\Cursos\\TodoApi\\Todo\\Todo.Domain\\Todo.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\marilia_mendonca\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
