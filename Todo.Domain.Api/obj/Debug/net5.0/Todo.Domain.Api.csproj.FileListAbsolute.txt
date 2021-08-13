@@ -27,3 +27,8 @@ C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.A
 C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\obj\Debug\net5.0\ref\Todo.Domain.Api.dll
 C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\obj\Debug\net5.0\Todo.Domain.Api.pdb
 C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\obj\Debug\net5.0\Todo.Domain.Api.genruntimeconfig.cache
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Flunt.dll
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.dll
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.Infra.dll
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.pdb
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.Infra.pdb
