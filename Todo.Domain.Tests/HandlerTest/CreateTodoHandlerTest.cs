@@ -1,11 +1,13 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Todo.Domain.Commands;
+using Todo.Domain.Handler;
+using Todo.Domain.Tests.Repositories;
 
-namespace Todo.Domain.Tests.CommandTest
+namespace Todo.Domain.Tests.HandlerTest
 {
     [TestClass]
-    public class CreateTodoCommandTest
+    public class CreateTodoHandlerTest
     {
         private readonly CreateTodoCommand _invalidCommand = new CreateTodoCommand("", DateTime.Now, "");
 
@@ -15,14 +17,19 @@ namespace Todo.Domain.Tests.CommandTest
         public void Given_An_Invalid_Command()
         {
             _invalidCommand.Validate();
-            Assert.AreEqual(_invalidCommand.Valid, false);
+            var handler = new TodoHandler(new FakeTodoRepository());
+            handler.Handle(_invalidCommand);
+            Assert.AreEqual(_invalidCommand.Invalid, true);
         }
 
         [TestMethod]
         public void Given_An_Valid_Command()
         {
             _validCommand.Validate();
+            var handler = new TodoHandler(new FakeTodoRepository());
+            handler.Handle(_validCommand);
             Assert.AreEqual(_validCommand.Valid, true);
         }
     }
 }
+
