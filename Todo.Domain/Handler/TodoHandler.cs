@@ -72,7 +72,6 @@ namespace Todo.Domain.Handler
             _repository.Update(todo);
 
             return new GenericCommandResult(true, "Tarefa atualizada", todo);
-
         }
     }
 }
