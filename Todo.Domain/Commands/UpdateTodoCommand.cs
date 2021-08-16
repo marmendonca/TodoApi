@@ -11,16 +11,16 @@ namespace Todo.Domain.Commands
         {
         }
 
-        public UpdateTodoCommand(string title, DateTime date, string user)
+        public UpdateTodoCommand(Guid id, string title, string user)
         {
+            Id = id;
             Title = title;
-            Date = date;
             User = user;
         }
+        
+        public Guid Id { get; set; }
 
         public string Title { get; set; }
-
-        public DateTime Date { get; set; }
 
         public string User { get; set; }
 

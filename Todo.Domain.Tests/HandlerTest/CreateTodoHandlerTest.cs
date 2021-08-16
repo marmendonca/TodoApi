@@ -19,8 +19,6 @@ namespace Todo.Domain.Tests.HandlerTest
 
         public CreateTodoHandlerTest()
         {
-            _invalidCommand.Validate();
-            _validCommand.Validate();
         }
 
         [TestMethod]
