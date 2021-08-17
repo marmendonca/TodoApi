@@ -32,3 +32,8 @@ C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.A
 C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.Infra.dll
 C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.pdb
 C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Todo.Domain.Infra.pdb
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marilia_mendonca\Documents\SpaceStudy\Cursos\TodoApi\Todo\Todo.Domain.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
