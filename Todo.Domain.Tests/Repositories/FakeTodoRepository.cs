@@ -29,7 +29,7 @@ namespace Todo.Domain.Tests.Repositories
 
         public TodoItem GetById(Guid id, string user)
         {
-            return new TodoItem("Nova tarefa", DateTime.Now, "mariliamendonca");
+            return new TodoItem("Nova tarefa", "mariliamendonca", DateTime.Now);
         }
 
         public IEnumerable<TodoItem> GetByPeriod(string user, DateTime date, bool done)

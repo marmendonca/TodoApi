@@ -7,7 +7,7 @@ namespace Todo.Domain.Tests.EntityTest
     [TestClass]
     public class TodoItemTest
     {
-        private readonly TodoItem _validTodo = new TodoItem("Nova tarefa", DateTime.Now, "mariliamendonca");
+        private readonly TodoItem _validTodo = new TodoItem("Nova tarefa", "mariliamendonca", DateTime.Now);
 
         [TestMethod]
         public void Dado_um_novo_Todo_o_mesmo_nao_pode_ser_concluido()
